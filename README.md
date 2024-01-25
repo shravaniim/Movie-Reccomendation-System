@@ -1,5 +1,5 @@
 # Movie-Reccomendation-System
-I have have developed Movie Recommendation System model using machine learning using Python
+I have have developed project on Movie Recommendation System using machine learning in Python
 
 Download dataset from kaggle named 'Entertainment.csv'
 
